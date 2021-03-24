@@ -4,5 +4,17 @@
 }
 #profilePic {
   height: 500px;
-  width: 525px;
+  width: 540px;
+}
+
+.titleRow {
+  justify-content: center !important;
+}
+
+.description {
+  justify-content: center !important;
+}
+
+.contactSec {
+  justify-content: center !important;
 }

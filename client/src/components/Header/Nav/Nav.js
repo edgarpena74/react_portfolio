@@ -1,19 +1,22 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
+import "./Nav.css";
 
 const Navigation = () => {
   return (
     <Navbar>
-      <Nav className="justify-content-end container-fluid" activeKey="/home">
-        <Nav.Item className="name">Edgar Peña</Nav.Item>
+      <Navbar.Brand className="navBrand">Edgar Peña</Navbar.Brand>
+      <Navbar className="justify-content-end container-fluid" activeKey="/home">
         <Nav.Item>
           <Nav.Link href="/biography">Biography</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+          <Nav.Link href="/portfolio" className="port">
+            Portfolio
+          </Nav.Link>
         </Nav.Item>
-      </Nav>
+      </Navbar>
     </Navbar>
   );
 };

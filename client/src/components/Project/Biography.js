@@ -46,21 +46,21 @@ const Biography = () => {
       </Row>
 
       <Row className="contactSec">
-        <p>Contact Information</p>
+        <h3>Contact Information</h3>
       </Row>
       <Row className="contactSec">
-        <p>
+        <h6>
           LinkedIn:
           <a href="https://www.linkedin.com/in/edgarpena47/"> edgarpena47</a>
-        </p>
+        </h6>
       </Row>
       <Row className="contactSec">
-        <p>
+        <h6>
           Github: <a href="https://github.com/edgarpena74"> edgarpena74</a>
-        </p>
+        </h6>
       </Row>
       <Row className="contactSec">
-        <p>Email: edgarpena0740@gmail.com</p>
+        <h6>Email: edgarpena0740@gmail.com</h6>
       </Row>
     </Container>
   );
