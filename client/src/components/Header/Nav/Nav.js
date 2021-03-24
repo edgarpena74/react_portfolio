@@ -6,7 +6,7 @@ import "./Nav.css";
 const Navigation = () => {
   return (
     <Navbar>
-      <Navbar.Brand className="navBrand">Edgar Peña</Navbar.Brand>
+      <Navbar.Brand className="navBrand"><h3>Edgar Peña</h3></Navbar.Brand>
       <Navbar className="justify-content-end container-fluid" activeKey="/home">
         <Nav.Item>
           <Nav.Link href="/biography">Biography</Nav.Link>

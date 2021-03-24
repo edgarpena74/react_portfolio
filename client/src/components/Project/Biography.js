@@ -33,8 +33,8 @@ const Biography = () => {
         </Container>
       </Row>
 
-      <Row className="contactSec">
-        <h3>Contact Information</h3>
+      <Row className="contactSec contactInfo">
+        <h4>Contact Information</h4>
       </Row>
       <Row className="contactSec">
         <h6>
