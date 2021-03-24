@@ -20,27 +20,15 @@ const Biography = () => {
             rounded
           />
           <p id="profileBio">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor
-            aliquam nulla facilisi cras fermentum. Molestie at elementum eu
-            facilisis. Lectus proin nibh nisl condimentum id venenatis a.
-            Imperdiet proin fermentum leo vel orci. Interdum velit laoreet id
-            donec ultrices tincidunt arcu non. Adipiscing at in tellus integer
-            feugiat scelerisque varius. Aliquet enim tortor at auctor urna nunc
-            id. Ipsum dolor sit amet consectetur adipiscing elit ut. Cursus
-            risus at ultrices mi tempus imperdiet nulla. Nibh cras pulvinar
-            mattis nunc sed blandit libero volutpat sed. Nisl purus in mollis
-            nunc.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor
-            aliquam nulla facilisi cras fermentum. Molestie at elementum eu
-            facilisis. Lectus proin nibh nisl condimentum id venenatis a.
-            Imperdiet proin fermentum leo vel orci. Interdum velit laoreet id
-            donec ultrices tincidunt arcu non. Adipiscing at in tellus integer
-            feugiat scelerisque varius. Aliquet enim tortor at auctor urna nunc
-            id. Ipsum dolor sit amet consectetur adipiscing elit ut. Cursus
-            risus at ultrices mi tempus imperdiet nulla. Nibh cras pulvinar
-            mattis nunc sed blandit libero volutpat sed. Nisl purus in mollis
-            nunc.
+            Hi my name is Edgar Peña. I am an aspiring full stack web developer.
+            My journey in web development began September of 2020. Over the past
+            months I have learned about front and back end web development.
+            There was a lot of challenging material I had to immerse my self in,
+            but over time coding started to make more sense. Now I am a MERN
+            stack developer, with knowledge in JavaScript,ES6, jQuery, NodeJS,
+            ReactJS, ExpressJS, HandlebarsJS, MongooseJS, CSS, Git, HTML, SQL,
+            MySQL, Sequelize, and MongoDB. Feel free to reach out and contact me
+            using the links below.
           </p>
         </Container>
       </Row>
