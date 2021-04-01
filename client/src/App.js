@@ -1,8 +1,9 @@
 import "./App.css";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Nav from "./components/Header/Nav/Nav";
-import Portfolio from "./components/Project/Portfolio";
-import Biography from "./components/Project/Biography";
+import Portfolio from "./components/Body/Portfolio";
+import Biography from "./components/Body/Biography";
+import Footer from "./components/Footer/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/" component={Biography} />
         </Switch>
+        <Footer />
       </BrowserRouter>
     </div>
     // </HashRouter>
