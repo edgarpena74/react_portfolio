@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2f2137b.chunk.css",
+    "main.js": "/static/js/main.3e77a95c.chunk.js",
+    "main.js.map": "/static/js/main.3e77a95c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a127dec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a127dec.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.88473f48.chunk.js": "/static/js/2.88473f48.chunk.js",
+    "static/js/2.88473f48.chunk.js.map": "/static/js/2.88473f48.chunk.js.map",
+    "static/js/3.7c2ced88.chunk.js": "/static/js/3.7c2ced88.chunk.js",
+    "static/js/3.7c2ced88.chunk.js.map": "/static/js/3.7c2ced88.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f2f2137b.chunk.css.map": "/static/css/main.f2f2137b.chunk.css.map",
+    "static/js/2.88473f48.chunk.js.LICENSE.txt": "/static/js/2.88473f48.chunk.js.LICENSE.txt",
+    "static/media/googleBooks.3337d41b.png": "/static/media/googleBooks.3337d41b.png",
+    "static/media/noteTaker.2242f47e.png": "/static/media/noteTaker.2242f47e.png",
+    "static/media/profilePic.d9617db0.jpg": "/static/media/profilePic.d9617db0.jpg",
+    "static/media/project1.280ff01b.png": "/static/media/project1.280ff01b.png",
+    "static/media/project2.99c12453.png": "/static/media/project2.99c12453.png",
+    "static/media/project3.a3c0e8b5.png": "/static/media/project3.a3c0e8b5.png",
+    "static/media/weather.91b09f9b.png": "/static/media/weather.91b09f9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a127dec.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.88473f48.chunk.js",
+    "static/css/main.f2f2137b.chunk.css",
+    "static/js/main.3e77a95c.chunk.js"
+  ]
+}
