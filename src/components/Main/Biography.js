@@ -10,7 +10,7 @@ import "./style.css";
 
 const Biography = () => {
   return (
-    <Container>
+    <Container sm="12">
       <Row>
         <Container className="picBio">
           <Image

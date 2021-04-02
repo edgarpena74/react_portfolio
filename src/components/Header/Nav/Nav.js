@@ -2,11 +2,11 @@ import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import "./Nav.css";
-//test
+
 const Navigation = () => {
   return (
-    <Navbar>
-      <Navbar.Brand className="navBrand">
+    <Navbar sm="12">
+      <Navbar.Brand className="navBrand" href="/">
         <h3>Edgar Peña</h3>
       </Navbar.Brand>
       <Navbar className="justify-content-end container-fluid">
@@ -16,6 +16,11 @@ const Navigation = () => {
         <Nav.Item>
           <Nav.Link href="/portfolio" className="port">
             Portfolio
+          </Nav.Link>
+        </Nav.Item>
+        <Nav.Item>
+          <Nav.Link href="/resume" className="resume">
+            Resume
           </Nav.Link>
         </Nav.Item>
       </Navbar>

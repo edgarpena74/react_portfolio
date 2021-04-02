@@ -1,14 +1,5 @@
 import React from "react";
-// import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-// import ProjectThree from "../Pics/project3.png";
-// import {
-//   projectThree,
-//   projectTwo,
-//   projectOne,
-//   noteTaker,
-//   weatherApp,
-// } from "../Pics/Pics.js";
 import projectThree from "../Pics/project3.png";
 import projectTwo from "../Pics/project2.png";
 import projectOne from "../Pics/project1.png";
@@ -22,7 +13,7 @@ import "./style.css";
 const Portfolio = () => {
   return (
     <div>
-      <Container>
+      <Container sm="12">
         <Row>
           <Image src={projectThree} thumbnail />
         </Row>
@@ -35,7 +26,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container>
+      <Container sm="12">
         <Row>
           <Image src={googleBooks} thumbnail />
         </Row>
@@ -51,7 +42,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container>
+      <Container sm="12">
         <Row>
           <Image src={projectTwo} thumbnail />
         </Row>
@@ -74,7 +65,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container>
+      <Container sm="12">
         <Row>
           <Image src={noteTaker} thumbnail />
         </Row>
@@ -89,7 +80,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container>
+      <Container sm="12">
         <Row>
           <Image src={projectOne} thumbnail />
         </Row>
@@ -110,7 +101,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container>
+      <Container sm="12">
         <Row>
           <Image src={weatherApp} thumbnail />
         </Row>
