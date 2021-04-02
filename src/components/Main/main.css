@@ -18,10 +18,14 @@
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (device-width: 600px) {
+@media only screen and (min-width: 500px) {
   .appImg {
     width: 20px !important;
     height: 20px !important;
+  }
+  #profilePic {
+    height: 5px;
+    width: 5px;
   }
 }
 
