@@ -17,20 +17,19 @@
   justify-content: center !important;
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 500px) {
   .appImg {
-    width: 20px !important;
-    height: 20px !important;
+    width: 300px !important;
+    height: 280px !important;
+    border: 0px !important;
   }
   #profileBio {
     padding-left: 0px !important;
     padding-right: 0px !important;
-    color: blue !important;
   }
   #profilePic {
-    height: 5px !important;
-    width: 5px !important;
+    height: 350px !important;
+    width: 370px !important;
   }
 }
 

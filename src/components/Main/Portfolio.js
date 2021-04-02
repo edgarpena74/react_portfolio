@@ -182,7 +182,7 @@ const Portfolio = () => {
           <Image className="appImg" src={googleBooks} thumbnail />
         </Row>
         <Row className="titleRow">
-          <h3>Google Books App(Still In Production Stage</h3>
+          <h3>Google Books App(Still In Production Stage)</h3>
         </Row>
         <Row className="description">
           <p>
