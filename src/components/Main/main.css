@@ -20,8 +20,8 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (device-width: 600px) {
   .appImg {
-    width: 80% !important;
-    height: 80% !important;
+    width: 20px !important;
+    height: 20px !important;
   }
 }
 
