@@ -32,7 +32,8 @@
   } */
   #profilePic {
     height: 350px !important;
-    width: 370px !important;
+    width: auto !important;
+    padding-right: 0px !important;
   }
 }
 
