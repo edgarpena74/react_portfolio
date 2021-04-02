@@ -1,10 +1,23 @@
-.navBrand {
+/* .navBrand {
   margin-left: 185px !important;
 }
 .resume {
   margin-right: 185px !important;
+} */
+.navContainer {
+  padding: 0px !important;
 }
-
+.navBar {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.navBrand {
+  padding-right: 3px !important;
+  position: absolute !important;
+}
+.navItem {
+  position: relative !important;
+}
 a {
   color: black !important;
 }
