@@ -13,7 +13,7 @@ import "./style.css";
 const Portfolio = () => {
   return (
     <div>
-      <Container sm="12">
+      <Container fluid="sm">
         <Row>
           <Image src={projectThree} thumbnail />
         </Row>
@@ -26,7 +26,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container sm="12">
+      <Container fluid="sm">
         <Row>
           <Image src={googleBooks} thumbnail />
         </Row>
@@ -42,7 +42,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container sm="12">
+      <Container fluid="sm">
         <Row>
           <Image src={projectTwo} thumbnail />
         </Row>
@@ -65,7 +65,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container sm="12">
+      <Container fluid="sm">
         <Row>
           <Image src={noteTaker} thumbnail />
         </Row>
@@ -80,7 +80,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container sm="12">
+      <Container fluid="sm">
         <Row>
           <Image src={projectOne} thumbnail />
         </Row>
@@ -101,7 +101,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
-      <Container sm="12">
+      <Container fluid="sm">
         <Row>
           <Image src={weatherApp} thumbnail />
         </Row>

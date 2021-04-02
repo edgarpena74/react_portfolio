@@ -5,7 +5,7 @@ import ResumePDF from "./Edgar_Peña_Resume.pdf";
 const Resume = () => {
   return (
     <div>
-      <div style={{ width: "auto", height: "auto" }} sm="12">
+      <div style={{ width: "auto", height: "auto" }}>
         <ResponsiveEmbed aspectRatio="16by9">
           <embed type="application/pdf" src={ResumePDF} />
         </ResponsiveEmbed>

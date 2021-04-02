@@ -4,7 +4,7 @@ import Row from "react-bootstrap/Row";
 import "./Footer.css";
 const FooterComponent = () => {
   return (
-    <Container>
+    <Container fluid="sm">
       <Row className="footer" sm="12">
         &#169;{` `}Edgar Peña
       </Row>

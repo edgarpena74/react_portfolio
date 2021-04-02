@@ -6,12 +6,12 @@ import "./Nav.css";
 
 const Navigation = () => {
   return (
-    <Container className="navContainer">
-      <Navbar className="navbar" sm="12">
-        <Navbar.Brand className="navBrand" href="/" sm="5">
+    <Container className="navContainer" fluid="sm">
+      <Navbar className="navbar container-fluid">
+        <Navbar.Brand className="navBrand" href="/">
           <h3>Edgar Peña</h3>
         </Navbar.Brand>
-        <Navbar className="justify-content-end container-fluid" sm="7">
+        <Navbar className="justify-content-end container-fluid">
           <Nav.Item className="navItem">
             <Nav.Link href="/biography">Biography</Nav.Link>
           </Nav.Item>

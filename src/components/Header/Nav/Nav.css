@@ -13,11 +13,10 @@
 }
 .navBrand {
   padding-right: 3px !important;
-  position: absolute !important;
 }
-.navItem {
+/* .navItem {
   position: relative !important;
-}
+} */
 a {
   color: black !important;
 }
