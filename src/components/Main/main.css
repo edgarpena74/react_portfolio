@@ -1,0 +1,38 @@
+.picBio {
+  padding: 0px !important;
+}
+
+#profilePic {
+  height: 500px;
+  width: 540px;
+}
+#profileBio {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.titleRow,
+.description,
+.links {
+  justify-content: center !important;
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (device-width: 600px) {
+  .appImg {
+    width: 80% !important;
+    height: 80% !important;
+  }
+}
+
+.linkColor {
+  color: blue !important;
+}
+
+.contactInfo {
+  margin-top: 7px !important;
+}
+
+.contactSec {
+  justify-content: center !important;
+}

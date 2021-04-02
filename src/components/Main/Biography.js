@@ -4,7 +4,7 @@ import Row from "react-bootstrap/Row";
 // import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import profilePic from "../Pics/profilePic.jpg";
-import "./style.css";
+import "./main.css";
 
 //add contact me section to this page
 
