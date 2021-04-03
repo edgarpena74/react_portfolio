@@ -1,7 +1,6 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
-// import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import profilePic from "../Pics/profilePic.jpg";
 import "./main.css";
@@ -23,7 +22,7 @@ const Biography = () => {
             Hi my name is Edgar Peña. I am an aspiring full stack web developer.
             My journey in web development began September of 2020. Over the past
             months I have learned about front and back end web development.
-            There was a lot of challenging material I had to immerse my self in,
+            There was a lot of challenging material I had to immerse myself in,
             but over time coding started to make more sense. Now I am a MERN
             stack developer, with knowledge in JavaScript,ES6, jQuery, NodeJS,
             ReactJS, ExpressJS, HandlebarsJS, MongooseJS, CSS, Git, HTML, SQL,
