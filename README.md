@@ -5,7 +5,7 @@
 This is my portfolio made using a single page React application
 
 <!-- ![screenshot](assets\portfolio.png =250x250) -->
-<img src="./assets/portfolio.png" width="500" height="500">
+<img src="./assets/portfolio.png" width="90%" height="90%">
 
 ## Technology
 
