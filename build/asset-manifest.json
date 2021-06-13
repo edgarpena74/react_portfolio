@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8943887.chunk.css",
-    "main.js": "/static/js/main.ac19b30b.chunk.js",
-    "main.js.map": "/static/js/main.ac19b30b.chunk.js.map",
+    "main.css": "/static/css/main.51ef4e74.chunk.css",
+    "main.js": "/static/js/main.b55a4212.chunk.js",
+    "main.js.map": "/static/js/main.b55a4212.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.212261b4.js",
     "runtime-main.js.map": "/static/js/runtime-main.212261b4.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.10d6c83f.chunk.js": "/static/js/2.10d6c83f.chunk.js",
-    "static/js/2.10d6c83f.chunk.js.map": "/static/js/2.10d6c83f.chunk.js.map",
+    "static/js/2.c6365bf8.chunk.js": "/static/js/2.c6365bf8.chunk.js",
+    "static/js/2.c6365bf8.chunk.js.map": "/static/js/2.c6365bf8.chunk.js.map",
     "static/js/3.dc3cee22.chunk.js": "/static/js/3.dc3cee22.chunk.js",
     "static/js/3.dc3cee22.chunk.js.map": "/static/js/3.dc3cee22.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.c8943887.chunk.css.map": "/static/css/main.c8943887.chunk.css.map",
-    "static/js/2.10d6c83f.chunk.js.LICENSE.txt": "/static/js/2.10d6c83f.chunk.js.LICENSE.txt",
-    "static/media/Edgar_Peña_Resume.27526cdd.pdf": "/static/media/Edgar_Peña_Resume.27526cdd.pdf",
+    "static/css/main.51ef4e74.chunk.css.map": "/static/css/main.51ef4e74.chunk.css.map",
+    "static/js/2.c6365bf8.chunk.js.LICENSE.txt": "/static/js/2.c6365bf8.chunk.js.LICENSE.txt",
+    "static/media/Edgar_Peña_Resume.150152c0.pdf": "/static/media/Edgar_Peña_Resume.150152c0.pdf",
+    "static/media/arador.3a3ad3f8.jpg": "/static/media/arador.3a3ad3f8.jpg",
     "static/media/googleBooks.3337d41b.png": "/static/media/googleBooks.3337d41b.png",
     "static/media/noteTaker.2242f47e.png": "/static/media/noteTaker.2242f47e.png",
     "static/media/profilePic.d9617db0.jpg": "/static/media/profilePic.d9617db0.jpg",
     "static/media/proj3EV.b22e89d6.png": "/static/media/proj3EV.b22e89d6.png",
     "static/media/project1.280ff01b.png": "/static/media/project1.280ff01b.png",
     "static/media/project2.99c12453.png": "/static/media/project2.99c12453.png",
+    "static/media/thePath.1cee2e5e.jpg": "/static/media/thePath.1cee2e5e.jpg",
     "static/media/weather.91b09f9b.png": "/static/media/weather.91b09f9b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.212261b4.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.10d6c83f.chunk.js",
-    "static/css/main.c8943887.chunk.css",
-    "static/js/main.ac19b30b.chunk.js"
+    "static/js/2.c6365bf8.chunk.js",
+    "static/css/main.51ef4e74.chunk.css",
+    "static/js/main.b55a4212.chunk.js"
   ]
 }

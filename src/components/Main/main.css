@@ -3,8 +3,8 @@
 }
 
 #profilePic {
-  height: 500px;
-  width: 540px;
+  height: 520px;
+  width: 570px;
   padding-right: 5px !important;
 }
 #profileBio {
@@ -13,9 +13,7 @@
   text-align: left !important;
 }
 
-.titleRow,
-.description,
-.links {
+.titleRow {
   justify-content: center !important;
 }
 
