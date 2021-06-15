@@ -85,6 +85,10 @@
   .skillsPara {
     margin-bottom: 5px;
   }
+  .portfolioDiv {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
 }
 /* Projects */
 .projectDivRes {
