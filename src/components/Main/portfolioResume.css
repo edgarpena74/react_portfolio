@@ -103,3 +103,8 @@
   margin-bottom: 25px !important;
   border-bottom: rgba(207, 207, 207, 0.637) solid 1px;
 }
+
+.portfolioDiv {
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}

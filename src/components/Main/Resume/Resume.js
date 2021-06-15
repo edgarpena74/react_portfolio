@@ -13,6 +13,7 @@ import weatherApp from "../../Pics/weather.png";
 import googleBooks from "../../Pics/googleBooks.png";
 import thePath from "../../Pics/thePath.jpg";
 import arador from "../../Pics/arador.jpg";
+import resume from "./resume.pdf";
 
 import "../portfolioResume.css";
 
@@ -22,17 +23,6 @@ const Resume = () => {
   // Add Pdf Download?
   //
   //
-  // return (
-  //   <div>
-  //     <Container>
-  //       <div style={{ width: "auto", height: "auto" }}>
-  //         <ResponsiveEmbed aspectRatio="16by9">
-  //           <embed type="application/pdf" src={ResumePDF} />
-  //         </ResponsiveEmbed>
-  //       </div>
-  //     </Container>
-  //   </div>
-  // );
 
   return (
     <div className="resumeDiv">
@@ -49,10 +39,21 @@ const Resume = () => {
             </Col>
             {/* Links and info */}
             <Col>
-              <p className="areaRes text-left">Area</p>
-              <p className="emailRes text-left">email</p>
-              <p className="linkedInRes text-left">linkedin</p>
-              <p className="githubRes text-left">github</p>
+              <p className="areaRes text-left">Berkeley, CA</p>
+              <p className="emailRes text-left">edgarpena0740@gmail.com</p>
+              <p className="linkedInRes text-left">
+                <a href="https://www.linkedin.com/in/edgarpena47?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5hXQL8bzRjapzeoZcEG2yQ%3D%3D">
+                  LinkedIn
+                </a>
+              </p>
+              <p className="githubRes text-left">
+                <a href="https://github.com/edgarpena74">GitHub</a>
+              </p>
+              <p className="githubRes text-left">
+                <a href={resume} download={resume}>
+                  Download Resume
+                </a>
+              </p>
             </Col>
           </Row>
         </div>

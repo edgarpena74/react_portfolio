@@ -14,7 +14,7 @@ import "./portfolioResume.css";
 //
 const Portfolio = () => {
   return (
-    <div>
+    <div className="portfolioDiv">
       {/* The Path */}
       <Container fluid="sm">
         <Row>

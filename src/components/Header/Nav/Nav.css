@@ -38,7 +38,7 @@
 .navItem {
   position: relative !important;
 }
-a {
+.navLink {
   color: white !important;
 }
 
