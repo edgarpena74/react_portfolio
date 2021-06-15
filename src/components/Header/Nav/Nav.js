@@ -6,10 +6,11 @@ import "./Nav.css";
 
 const Navigation = () => {
   return (
-    <Container className="navContainer" fluid="sm">
+    <div>
+      {/* <Container className="navContainer"> */}
       <Navbar collapseOnSelect className="navBar" expand="lg">
         <Navbar.Brand className="navBrand" href="/">
-          <h3>Edgar Peña</h3>
+          <h3 className="navNameheader">Edgar Peña</h3>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
@@ -30,7 +31,8 @@ const Navigation = () => {
           </Navbar>
         </Navbar.Collapse>
       </Navbar>
-    </Container>
+      {/* </Container> */}
+    </div>
   );
 };
 

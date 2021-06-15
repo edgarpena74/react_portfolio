@@ -4,12 +4,32 @@
 .resume {
   margin-right: 185px !important;
 } */
-.navContainer {
-  padding: 0px !important;
-}
-.navBar {
+/* .navContainer {
   padding: 0px !important;
   margin: 0px !important;
+  margin-right: 0px !important;
+  display: block;
+  width: 100% !important;
+  background-color: #2e5478 !important;
+} */
+.navBar {
+  padding: 0px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  /* margin-left: 70px !important;
+  margin-right: 50px !important; */
+  background-color: #2e5478 !important;
+  color: white !important;
+}
+
+@media only screen and (max-width: 570px) {
+  .navBar {
+    padding: 0px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    /* margin-left: 10px !important;
+    margin-right: 10px !important; */
+  }
 }
 .navBrand {
   margin: 0px !important;
@@ -19,5 +39,10 @@
   position: relative !important;
 }
 a {
-  color: black !important;
+  color: white !important;
+}
+
+.navNameHeader,
+.navItem {
+  color: white !important;
 }

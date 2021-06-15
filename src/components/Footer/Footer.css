@@ -1,6 +1,16 @@
-.footer {
-  align-content: center !important;
-  justify-content: center !important;
+.footerDiv {
+  background-color: #2e5478 !important;
+  height: 56px !important;
+}
+
+.footerRow {
   margin-top: 10px !important;
-  margin-bottom: 20px !important;
+
+  color: white !important;
+}
+
+.footerText {
+  height: 56px !important;
+  padding-top: 14px !important;
+  width: 100% !important;
 }

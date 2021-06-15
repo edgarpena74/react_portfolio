@@ -10,12 +10,11 @@ import thePath from "../Pics/thePath.jpg";
 import arador from "../Pics/arador.jpg";
 import Image from "react-bootstrap/Image";
 import Container from "react-bootstrap/Container";
-import "./main.css";
+import "./portfolioResume.css";
 //
 const Portfolio = () => {
   return (
     <div>
-      {" "}
       {/* The Path */}
       <Container fluid="sm">
         <Row>
@@ -94,6 +93,7 @@ const Portfolio = () => {
           </p>
         </Row>
       </Container>
+      {/* Project three */}
       <Container fluid="sm">
         <Row>
           <Image className="appImg" src={projectThree} thumbnail />
@@ -137,6 +137,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
+      {/* Project two */}
       <Container fluid="sm">
         <Row>
           <Image className="appImg" src={projectTwo} thumbnail />
@@ -176,6 +177,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
+      {/* Project one */}
       <Container fluid="sm">
         <Row>
           <Image className="appImg" src={projectOne} thumbnail />

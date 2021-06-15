@@ -1,3 +1,8 @@
+.bioContactDiv {
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+
 .picBio {
   padding: 0px !important;
 }
@@ -7,18 +12,14 @@
   width: 570px;
   padding-right: 5px !important;
 }
-#profileBio {
-  /* padding-left: 50px !important; */
-  padding-right: 0px !important;
-  text-align: left !important;
-}
 
 .titleRow {
+  margin-top: 8px !important;
   justify-content: center !important;
 }
 
 /* iphone is 375px wide */
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 590px) {
   .appImg {
     width: auto !important;
     height: 280px !important;
@@ -29,9 +30,16 @@
     padding-right: 0px !important;
   } */
   #profilePic {
-    height: 350px !important;
+    height: 430px !important;
     width: 100% !important;
     padding-right: 0px !important;
+    margin-right: 5px !important;
+    margin-left: 5px !important;
+  }
+
+  .profileBio {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
   }
 }
 
@@ -40,9 +48,15 @@
 }
 
 .contactInfo {
-  margin-top: 7px !important;
+  margin-top: 40px !important;
 }
 
 .contactSec {
   justify-content: center !important;
+}
+
+.contactHeader {
+  border-bottom: 1px black solid !important;
+  width: 300px !important;
+  padding-bottom: 10px !important;
 }

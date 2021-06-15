@@ -10,15 +10,15 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <div className="App">
+      <Nav />
       <BrowserRouter>
-        <Nav />
         <Switch>
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/resume" component={Resume} />
           <Route path="/" component={Biography} />
         </Switch>
-        <Footer />
       </BrowserRouter>
+      <Footer />
     </div>
   );
 }

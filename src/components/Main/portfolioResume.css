@@ -1,0 +1,105 @@
+.resumeDiv {
+  /* border-top: 1px solid rgba(204, 204, 204, 0.26); */
+  margin-top: 20px !important;
+  margin-left: 25px !important;
+  margin-right: 25px !important;
+  background-color: rgba(247, 247, 247, 0.616) !important;
+  padding-top: 20px !important;
+}
+
+/* Name and Links */
+/* .namelinkCont {
+  padding-top: 10px !important;
+} */
+
+.nameLinkDiv {
+  border-bottom: 1px solid rgba(204, 204, 204, 0.26);
+  margin-bottom: 20px !important;
+  padding-bottom: 15px;
+}
+.nameRes {
+  /* font-size: 50px !important;
+  line-height: 50px !important; */
+  margin-bottom: 5px;
+}
+/* links */
+.areaRes,
+.emailRes,
+.linkedInRes,
+.githubRes {
+  margin: 0px !important;
+}
+/* */
+
+/* Work and Education */
+.expHeader {
+  font-weight: 600 !important;
+}
+/* Work */
+.jobName,
+.dates,
+.jobDesc {
+  margin: 0px;
+}
+
+/* Work and Edu section styling */
+.jobLocation,
+.schoolName {
+  font-weight: 500 !important;
+}
+
+.jobCity,
+.schoolCity {
+  font-weight: normal !important;
+}
+
+.dates,
+.schoolDates {
+  font-size: small !important;
+  font-style: italic !important;
+}
+
+.position,
+.studyArea {
+  font-style: oblique !important;
+}
+
+/* Edu */
+.eduHeader {
+  margin-top: 20px !important;
+  /* font-weight: 600 !important; */
+}
+.schoolPara,
+.schoolDates,
+.studyDesc {
+  margin: 0px;
+}
+/* Skills */
+.skillsPara {
+  margin-bottom: 10px;
+}
+@media only screen and (max-width: 592px) {
+  .skHeader {
+    margin-top: 10px;
+  }
+  .skillsPara {
+    margin-bottom: 5px;
+  }
+}
+/* Projects */
+.projectDivRes {
+  border-top: 1px solid rgba(204, 204, 204, 0.26);
+  margin-top: 20px !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+/*  */
+.appImg {
+  padding: 0px !important;
+}
+
+.emptyParagraph {
+  margin-top: 10px !important;
+  margin-bottom: 25px !important;
+  border-bottom: rgba(207, 207, 207, 0.637) solid 1px;
+}
