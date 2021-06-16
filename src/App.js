@@ -6,7 +6,7 @@ import Biography from "./components/Main/Biography";
 import Footer from "./components/Footer/Footer";
 import Resume from "./components/Main/Resume/Resume";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+//
 function App() {
   return (
     <div className="App">
