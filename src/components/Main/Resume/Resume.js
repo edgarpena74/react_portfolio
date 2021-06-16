@@ -2,7 +2,7 @@ import React from "react";
 
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/COl";
+import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 // Images
 import projectThree from "../../Pics/proj3EV.png";
