@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.405ea4cb.chunk.css",
+    "main.css": "/static/css/main.0f505847.chunk.css",
     "main.js": "/static/js/main.a2053e15.chunk.js",
     "main.js.map": "/static/js/main.a2053e15.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8385cb6e.js",
@@ -12,7 +12,7 @@
     "static/js/3.ae484b61.chunk.js.map": "/static/js/3.ae484b61.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.405ea4cb.chunk.css.map": "/static/css/main.405ea4cb.chunk.css.map",
+    "static/css/main.0f505847.chunk.css.map": "/static/css/main.0f505847.chunk.css.map",
     "static/js/2.acd06157.chunk.js.LICENSE.txt": "/static/js/2.acd06157.chunk.js.LICENSE.txt",
     "static/media/arador.3a3ad3f8.jpg": "/static/media/arador.3a3ad3f8.jpg",
     "static/media/googleBooks.3337d41b.png": "/static/media/googleBooks.3337d41b.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.8385cb6e.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.acd06157.chunk.js",
-    "static/css/main.405ea4cb.chunk.css",
+    "static/css/main.0f505847.chunk.css",
     "static/js/main.a2053e15.chunk.js"
   ]
 }
