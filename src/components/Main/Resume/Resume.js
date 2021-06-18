@@ -33,7 +33,6 @@ const Resume = () => {
         <div className="nameLinkDiv">
           <Row>
             {/* Name Header */}
-            {/* do size for col's!!!!!!!!!!!! */}
             <Col sm="9" md="9" lg="9">
               <h1 className="nameRes text-left">Edgar Peña</h1>
               <p className="workTitleRes text-left">Full Stack Web Developer</p>

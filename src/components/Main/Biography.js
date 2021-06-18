@@ -39,19 +39,19 @@ const Biography = () => {
         <Row className="contactSec contactInfo">
           <h3 className="contactHeader text-center">Contact </h3>
         </Row>
-        <Row className="contactSec">
-          <h5>
+        <Row className="contactSec contactTxt">
+          <h5 className="contactTxt">
             LinkedIn:
             <a href="https://www.linkedin.com/in/edgarpena47/"> edgarpena47</a>
           </h5>
         </Row>
-        <Row className="contactSec">
-          <h5>
+        <Row className="contactSec contactTxt">
+          <h5 className="contactTxt">
             Github: <a href="https://github.com/edgarpena74"> edgarpena74</a>
           </h5>
         </Row>
         <Row className="contactSec">
-          <h5>Email: edgarpena0740@gmail.com</h5>
+          <h5 className="contactTxt">Email: edgarpena0740@gmail.com</h5>
         </Row>
       </Container>
     </div>

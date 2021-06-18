@@ -206,7 +206,7 @@ const Portfolio = () => {
           <p className="text-left">
             <a
               className="linkColor"
-              href="https://github.com/edgarpena74/ghost_wiki"
+              href="https://github.com/edgarpena74/duration_station"
             >
               Github Repository
             </a>
@@ -214,7 +214,10 @@ const Portfolio = () => {
         </Row>
         <Row className="links">
           <p className="text-left">
-            <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
+            <a
+              className="linkColor"
+              href="https://edgarpena74.github.io/duration_station/"
+            >
               Deployed Application
             </a>
           </p>
@@ -222,6 +225,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
+      {/* Note Taker */}
       <Container fluid="sm">
         <Row>
           <Image className="appImg" src={noteTaker} thumbnail />
@@ -244,7 +248,7 @@ const Portfolio = () => {
           <p className="text-left">
             <a
               className="linkColor"
-              href="https://github.com/edgarpena74/ghost_wiki"
+              href="https://github.com/edgarpena74/Note_Taker"
             >
               Github Repository
             </a>
@@ -252,7 +256,10 @@ const Portfolio = () => {
         </Row>
         <Row className="links">
           <p className="text-left">
-            <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
+            <a
+              className="linkColor"
+              href="https://edgarpena74.github.io/Note_Taker/"
+            >
               Deployed Application
             </a>
           </p>
@@ -260,6 +267,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
+      {/* Google Books Search */}
       <Container fluid="sm">
         <Row>
           <Image className="appImg" src={googleBooks} thumbnail />
@@ -286,13 +294,6 @@ const Portfolio = () => {
               href="https://github.com/edgarpena74/ghost_wiki"
             >
               Github Repository
-            </a>
-          </p>
-        </Row>
-        <Row className="links">
-          <p className="text-left">
-            <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
-              Deployed Application
             </a>
           </p>
         </Row>
