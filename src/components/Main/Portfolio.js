@@ -291,7 +291,7 @@ const Portfolio = () => {
           <p className="text-left">
             <a
               className="linkColor"
-              href="https://github.com/edgarpena74/ghost_wiki"
+              href="https://github.com/edgarpena74/google_books_app"
             >
               Github Repository
             </a>
@@ -300,6 +300,7 @@ const Portfolio = () => {
       </Container>
       <br />
       <br />
+      {/* Weather Dashboard */}
       <Container fluid="sm">
         <Row>
           <Image className="appImg" src={weatherApp} thumbnail />
@@ -323,7 +324,7 @@ const Portfolio = () => {
           <p className="text-left">
             <a
               className="linkColor"
-              href="https://github.com/edgarpena74/ghost_wiki"
+              href="https://github.com/edgarpena74/Weather-Dashboard"
             >
               Github Repository
             </a>
@@ -331,7 +332,10 @@ const Portfolio = () => {
         </Row>
         <Row className="links">
           <p className="text-left">
-            <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
+            <a
+              className="linkColor"
+              href="https://edgarpena74.github.io/Weather-Dashboard/"
+            >
               Deployed Application
             </a>
           </p>

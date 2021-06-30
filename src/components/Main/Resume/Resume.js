@@ -96,13 +96,29 @@ const Resume = () => {
                   <span className="jobLocation">Napa Valley College</span>
                   <span className="jobCity">, Napa, CA </span>
                   <span classname="longDash">—</span>
-                  <span className="position"> Supplementary Instructor</span>
+                  <span className="position">
+                    {" "}
+                    Supplementary Instructor of Chemistry
+                  </span>
                 </p>
-                <p className="dates text-left">January 2018- April 2019</p>
+                <p className="dates text-left">January 2018 - April 2019</p>
                 <p className="jobDesc text-left">
                   Supplementary instructor of chemistry. I had tutorial sessions
                   with students where I answered any questions they had,
                   retaught lessons, and prepared them for exams.
+                </p>
+              </div>
+              <div className="jobFourDiv">
+                <p className="jobName text-left">
+                  <span className="jobLocation">Napa High School</span>
+                  <span className="jobCity">, Napa, CA </span>
+                  <span classname="longDash">—</span>
+                  <span className="position"> Academic Tutor</span>
+                </p>
+                <p className="dates text-left">January 2019 - June 2019</p>
+                <p className="jobDesc text-left">
+                  At Napa High School I tutored English learners and AVID
+                  students in the subjects of math and science.
                 </p>
               </div>
             </div>
@@ -359,7 +375,7 @@ const Resume = () => {
             <p className="text-left">
               <a
                 className="linkColor"
-                href="https://github.com/edgarpena74/ghost_wiki"
+                href="https://github.com/edgarpena74/duration_station"
               >
                 Github Repository
               </a>
@@ -367,7 +383,10 @@ const Resume = () => {
           </Row>
           <Row className="links">
             <p className="text-left">
-              <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
+              <a
+                className="linkColor"
+                href="https://edgarpena74.github.io/duration_station/"
+              >
                 Deployed Application
               </a>
             </p>
@@ -397,7 +416,7 @@ const Resume = () => {
             <p className="text-left">
               <a
                 className="linkColor"
-                href="https://github.com/edgarpena74/ghost_wiki"
+                href="https://github.com/edgarpena74/Note_Taker"
               >
                 Github Repository
               </a>
@@ -405,7 +424,10 @@ const Resume = () => {
           </Row>
           <Row className="links">
             <p className="text-left">
-              <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
+              <a
+                className="linkColor"
+                href="https://edgarpena74.github.io/Note_Taker/"
+              >
                 Deployed Application
               </a>
             </p>
@@ -437,19 +459,19 @@ const Resume = () => {
             <p className="text-left">
               <a
                 className="linkColor"
-                href="https://github.com/edgarpena74/ghost_wiki"
+                href="https://github.com/edgarpena74/google_books_app"
               >
                 Github Repository
               </a>
             </p>
           </Row>
-          <Row className="links">
+          {/* <Row className="links">
             <p className="text-left">
-              <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
+              <a className="linkColor" href="">
                 Deployed Application
               </a>
             </p>
-          </Row>
+          </Row> */}
         </Container>
         <p className="emptyParagraph"></p>
         {/* Weather App */}
@@ -476,7 +498,7 @@ const Resume = () => {
             <p className="text-left">
               <a
                 className="linkColor"
-                href="https://github.com/edgarpena74/ghost_wiki"
+                href="https://github.com/edgarpena74/Weather-Dashboard"
               >
                 Github Repository
               </a>
@@ -484,7 +506,10 @@ const Resume = () => {
           </Row>
           <Row className="links">
             <p className="text-left">
-              <a className="linkColor" href="https://ghostwiki.herokuapp.com/">
+              <a
+                className="linkColor"
+                href="https://edgarpena74.github.io/Weather-Dashboard/"
+              >
                 Deployed Application
               </a>
             </p>
